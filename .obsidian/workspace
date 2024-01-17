@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "f17104bb41e37f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "60edc2b1c483599b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f04b7a4993c00774",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0d2f9dba725cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ce058b37673c6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "110b1879e1265c30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5ab2b730bc1373f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46547a9bf44cd32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc444d92fe23e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b653c90a84d10636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f08a1bff76d3f566",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39522d4a9b05dfed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3cb26a2c80364a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "38ce058b37673c6a",
+  "lastOpenFiles": [
+    "Pasted image 20220926001547.png",
+    "grpc/기본 개념.md",
+    "README.md"
+  ]
+}
